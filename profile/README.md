@@ -11,7 +11,6 @@ We have collaborated with multiple leading institutions around the world in deve
 ## 🧑‍⚕️ Clinical Adaptation
 Our tools and techniques are put into practice in real-world clinical applications.
 
-
 <details> 
 	<summary>More about us:</summary>
 	<ul>
@@ -22,9 +21,7 @@ Our tools and techniques are put into practice in real-world clinical applicatio
  	</ul>
 </details>
 
----
-
-[Contact us](https://neurorehablab.arditi.pt/contact/)
+## 📌 [Get in touch](https://neurorehablab.arditi.pt/contact/)
 
 ```topojson
 {
@@ -51,3 +48,5 @@ Our tools and techniques are put into practice in real-world clinical applicatio
 
 
 ```
+
+---
