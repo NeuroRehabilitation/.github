@@ -25,3 +25,29 @@ Our tools and techniques are put into practice in real-world clinical applicatio
 ---
 
 [Contact us](https://neurorehablab.arditi.pt/contact/)
+
+```topojson
+{
+  "type": "Feature",
+  "properties": {
+    "NeuroRehabLab": "Madeira Tecnopolo, Floor -2",
+    " ": "Caminho da Penteada",
+    "": "9020-105 Funchal, Portugal"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.9260787,
+      32.6596673
+    ],
+  "bbox": [
+    -16.95,
+    32.63,
+    -16.90,
+    32.68
+  ]
+  }
+}
+
+
+```
